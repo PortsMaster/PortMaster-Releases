@@ -3,7 +3,7 @@ Work In Progress - Will eventually host PortMaster release binaries
 
 ## What is PortMaster?
 
-PortMaster is a simple tool that allows you to download various game ports that are available for 351Elec, ArkOS, EmuElec, RetroOZ, and TheRA for RK3326 based devices.  A number of ports have been tested and confirmed working with TheRA and RetroOZ.  Ports such as Freedom Planet and Maldita Castilla will be working for TheRA soon.  
+PortMaster is a simple tool that allows you to download various game ports that are available for [351Elec](https://351elec.de/), [ArkOS](https://github.com/christianhaitian/arkos/wiki), [EmuElec](https://github.com/EmuELEC/EmuELEC), [RetroOZ](https://github.com/southoz/RetroOZ/wiki), and [TheRA](https://techtoytinker.com/handheld-corner) for RK3326 based devices.  A number of ports have been tested and confirmed working with TheRA and RetroOZ.  Ports such as Freedom Planet and Maldita Castilla will be working for TheRA soon.  
 
 One of the goals of PortMaster is to not install or upgrade any existing OS libraries for any ports.  Any of the ports that need a particular non standard library are maintained within the ports' folder and made available specifically to that port during execution.
 
@@ -20,13 +20,13 @@ If you don't have PortMaster there or need to install it manually, you can do th
 
 ## Do I have to use PortMaster to install ports?
 
-No.  You can simply go to the PortMaster repo (https://github.com/PortsMaster/PortMaster-Releases), find the .zip of the port you want, download it and unzip the contents of it to the /roms/ports folder.  You'll also need to copy the PortMaster folder to your /roms/ports folder.  If you don't want the PortMaster folder to show up in your Ports menu in Emulationstation, just delete the PortMaster.sh file as it won't be needed if you don't plan to install or update your ports online via this tool. \
+No.  You can simply go to the PortMaster repo (https://github.com/PortsMaster/PortMaster-Releases), find the .zip of the port you want, download it and unzip the contents of it to the /roms/ports folder.  You'll also need to copy the PortMaster folder to your /roms/ports folder.  If you don't want the PortMaster folder to show up in your Ports menu in Emulationstation, just delete the PortMaster.sh file as it won't be needed if you don't plan to install or update your ports online via this tool.
 
 **Note**: For ArkOS on the RG351V or RG351MP, if SD2 is being used for roms, unzip the port to the /roms2/ports folder instead and copy the PortMaster folder to the /roms2/tools location.
 
 ## How do I get more info about the ports in this repo like the sources used and additional asset needs if applicable?
 
-You can find that information via the ArkOS Emulators and Ports information wiki link [here](https://github.com/PortsMaster/PortMaster-Releases/wiki).
+You can find that information via the Ports information wiki link [here](https://github.com/PortsMaster/PortMaster-Releases/wiki).
 
 ## If there are updates to Ports, how will that work?
 
