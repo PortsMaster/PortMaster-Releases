@@ -1,5 +1,5 @@
 # PortMaster-Releases
-Work In Progress - Will eventually host PortMaster release binaries
+Hosts PortMaster release binaries
 
 ## What is PortMaster?
 
