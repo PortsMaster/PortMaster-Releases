@@ -1,3 +1,12 @@
+# THIS REPO IS DEPRECATED
+
+Please head to [our website](https://portmaster.games/games.html) for up to date zips.
+
+The [PortMaaster-New](https://github.com/PortsMaster/PortMaster-New) is the source repo for all new ports.
+
+Join our [Discord](https://discord.gg/JxYBp9HTAY) for more info.
+
+
 ## What is PortMaster?
 
 PortMaster is a simple tool that is designed similarly to JohnIrvine's [ThemeMaster](https://github.com/JohnIrvine1433/ThemeMaster) themes management tool that allows you to download various game ports that are available for 351Elec, ArkOS, JelOS, RetroOZ, and TheRA for RK3326 based devices.  Support for the RG552 has been added as well.  A number of ports have been tested and confirmed working with TheRA and RetroOZ.  Ports such as Freedom Planet and Maldita Castilla will be working for TheRA soon.  
